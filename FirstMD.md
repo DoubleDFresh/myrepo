@@ -1,7 +1,7 @@
 First MD
 ================
 Douglas Duncan
-r format(Sys.date())
+(Sys.date())
 
 R Markdown
 ----------
