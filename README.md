@@ -14,6 +14,6 @@ $equation$
 
 First Header  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
+Content from GitKraken  | Windows!
 Content Cell  | Content Cell
 Reference Style Links and Images
