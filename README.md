@@ -5,7 +5,11 @@
 *adding a line with italics*
 **adding a bold second line**
 
-+now this is a line from RStudio
+Create lists with a dash:
+
+- Item 1
+- Item 1a
+- Item 2
 
 1. Item 2
 2. Item 2
