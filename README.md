@@ -15,5 +15,5 @@ $equation$
 First Header  | Second Header
 ------------- | -------------
 Content from GitKraken  | Windows!
-Content Cell  | Content Cell
+Content from R  | Mac!
 Reference Style Links and Images
