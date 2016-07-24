@@ -1,8 +1,9 @@
-# myrepo
-##A line I wrote on my local computer
+# myrepo - Header 1
+## Header 2- A line I wrote on my local computer
+###Header 3
 ****
-*adding a line
-*adding a second line
+*adding a line with italics*
+**adding a bold second line**
 
 +now this is a line from RStudio
 
@@ -10,7 +11,7 @@
 2. Item 2
 +Item 3A
 
-$equation$
+$\frac{1}{n}$
 
 Source  | Comment
 ------------- | -------------
