@@ -12,7 +12,7 @@
 
 $equation$
 
-First Header  | Second Header
+Source  | Comment
 ------------- | -------------
 Content from GitKraken  | Windows!
 Content from R  | Mac!
